@@ -1,0 +1,12 @@
+{
+  "name": "crowdstudy_crowdflower_api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ncphillips/crowdstudy_crowdflower_api"
+  },
+  "dependencies": {
+    "nodejs-crowdflower": "git://github.com/ncphillips/nodejs-crowdflower"
+  }
+}
